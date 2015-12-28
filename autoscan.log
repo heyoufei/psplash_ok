@@ -1,0 +1,56 @@
+autoscan: warning: missing AC_CHECK_FUNCS([atexit]) wanted by: 
+	psplash-fb.c:236
+autoscan: warning: missing AC_CHECK_FUNCS([getpagesize]) wanted by: 
+	psplash-fb.c:214
+autoscan: warning: missing AC_CHECK_FUNCS([memset]) wanted by: 
+	psplash-fb.c:121
+autoscan: warning: missing AC_CHECK_FUNCS([mkfifo]) wanted by: 
+	psplash.c:341
+autoscan: warning: missing AC_CHECK_FUNCS([select]) wanted by: 
+	psplash.c:288
+autoscan: warning: missing AC_CHECK_FUNCS([strerror]) wanted by: 
+	psplash-console.c:132
+autoscan: warning: missing AC_CHECK_HEADERS([fcntl.h]) wanted by: 
+	psplash.h:24
+	psplash-write.c:26
+autoscan: warning: missing AC_CHECK_HEADERS([limits.h]) wanted by: 
+	psplash.h:25
+autoscan: warning: missing AC_CHECK_HEADERS([stdint.h]) wanted by: 
+	psplash.h:32
+autoscan: warning: missing AC_CHECK_HEADERS([stdlib.h]) wanted by: 
+	psplash.h:33
+	psplash-write.c:23
+autoscan: warning: missing AC_CHECK_HEADERS([string.h]) wanted by: 
+	psplash.h:34
+	psplash-write.c:20
+autoscan: warning: missing AC_CHECK_HEADERS([sys/ioctl.h]) wanted by: 
+	psplash.h:38
+autoscan: warning: missing AC_CHECK_HEADERS([sys/time.h]) wanted by: 
+	psplash.h:41
+autoscan: warning: missing AC_CHECK_HEADERS([termios.h]) wanted by: 
+	psplash.h:43
+autoscan: warning: missing AC_CHECK_HEADERS([unistd.h]) wanted by: 
+	psplash.h:44
+	psplash-write.c:21
+autoscan: warning: missing AC_C_INLINE wanted by: 
+	psplash-fb.c:267
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	psplash-fb.c:115
+autoscan: warning: missing AC_FUNC_MMAP wanted by: 
+	psplash-fb.c:201
+autoscan: warning: missing AC_HEADER_STDBOOL wanted by: 
+	psplash.c:306
+	psplash.h:48
+autoscan: warning: missing AC_TYPE_SSIZE_T wanted by: 
+	psplash.c:222
+autoscan: warning: missing AC_TYPE_UINT16_T wanted by: 
+	psplash.h:47
+	psplash-fb.c:317
+	psplash-fb.c:343
+	psplash-fb.c:360
+autoscan: warning: missing AC_TYPE_UINT32_T wanted by: 
+	psplash-fb.c:312
+	psplash-fb.c:339
+	psplash-fb.c:354
+autoscan: warning: missing AC_TYPE_UINT8_T wanted by: 
+	psplash.h:46
